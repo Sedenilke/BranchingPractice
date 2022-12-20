@@ -8,5 +8,6 @@ public class Main {
         obj.number3 =3;
         TestClass02 obj2 = new TestClass02();
         obj2.word1 = "Hello";
+        obj2.word2 ="This is another word.";
     }
 }
