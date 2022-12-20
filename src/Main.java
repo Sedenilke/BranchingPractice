@@ -6,6 +6,7 @@ public class Main {
         obj.number1 =1;
         obj.number2 =2;
         obj.number3 =3;
-
+        TestClass02 obj2 = new TestClass02();
+        obj2.word1 = "Hello";
     }
 }
